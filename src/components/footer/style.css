@@ -1,0 +1,26 @@
+.footer {
+    background-color: #505050;
+    color: white;
+}
+
+.row p{
+    display: inline-block;
+    color: #a9a9a9;
+}
+
+.row p span {
+    color: white;
+}
+
+img{
+    width: 100%;
+}
+
+a{
+    display: block;
+    color: white !important;
+
+}
+.insta{
+    display: inline;
+}

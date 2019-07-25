@@ -1,0 +1,15 @@
+.carousel-caption h3{
+    display: inline-block;
+    font-family: Satisfy;
+    background-color: rgba(44, 62, 80,0.5);
+    margin-bottom: 50px;
+    font-size:50px;
+}
+
+.carousel-caption p{
+    font-family: Poppins;
+    letter-spacing: -6px;
+    background-color: rgba(44, 62, 80,0.5);
+    margin-bottom: 10px;
+    font-size:120px;
+}

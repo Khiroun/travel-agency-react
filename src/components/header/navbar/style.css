@@ -1,0 +1,16 @@
+.default-navbar{
+    font-family: Roboto;
+    font-size: large;
+}
+
+.default-navbar a {
+    color: #7f8c8d;
+    position: relative;
+}
+
+.default-navbar a:hover {
+    display: inline-block;
+    color: #3fd0d4;
+    text-decoration: none;
+
+}
